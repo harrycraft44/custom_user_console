@@ -9,6 +9,7 @@
 -<b>></b> - changes the flashing > var <br>
 -<b>exit</b> - exits the console <br>
 -<b>kill</b> - kill using tag <br>
+-<b>spawn</b> - spawn using collecton var <br>
 <h2> install</h2> <br>
 put the plugin in the project plugin folder
 
