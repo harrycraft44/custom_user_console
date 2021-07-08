@@ -14,6 +14,9 @@
 -<b>spawn</b> - spawn using collecton var <br>
 -<b>edit</b> - for ide<br>
 -<b>spawnai</b> - spawn ai<br>
+-<b>ide</b> - open ide<br>
+-<b>host</b> - host a server<br>
+-<b>connect</b> - join a server<br>
 <h2> install</h2> <br>
 put the plugin in the project plugin folder
 
