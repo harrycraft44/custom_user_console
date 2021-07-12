@@ -4,7 +4,7 @@
 	"VersionName": "1.0",
 	"FriendlyName": "custom_user_console",
 	"Description": "a custom user console ",
-	"Category": "Other",
+	"Category": "console",
 	"CreatedBy": "hellostore",
 	"CreatedByURL": "",
 	"DocsURL": "",
