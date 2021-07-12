@@ -1,6 +1,7 @@
 # custom_user_console
  ue4 console custom and easy to use 
 
+
 <h2>programming language</h2>
 <p>its on hold as we ran in to road blocks but most likely be cancelled</p>
 
@@ -17,7 +18,11 @@
 -<b>ide</b> - open ide<br>
 -<b>host</b> - host a server<br>
 -<b>connect</b> - join a server<br>
+-<b>sysinfo</b> - displays system info<br>
+-<b>changelevel</b> - changes map <br>
 <h2> install</h2> <br>
+
 put the plugin in the project plugin folder
+and put https://github.com/harrycraft44/get-ip-ue4-plugin in the plugins folder
 
 <h2> </h2>
