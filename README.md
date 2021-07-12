@@ -18,6 +18,8 @@
 -<b>ide</b> - open ide<br>
 -<b>host</b> - host a server<br>
 -<b>connect</b> - join a server<br>
+-<b>sysinfo</b> - displays system info<br>
+-<b>changelevel</b> - changes map <br>
 <h2> install</h2> <br>
 
 put the plugin in the project plugin folder
